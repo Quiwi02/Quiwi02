@@ -1,39 +1,99 @@
-<h2 align="center"> Hola soy Quiverli Diaz <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-### Bienvenido a mi perfil! 👋
-
-
-<!--
-**Quiwi02/Quiwi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-  <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9ibzN4NGg2dzhvMjg4ajJ4Y2djMnptODEyb2JwMGJjcHJnMm41eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif">
-    <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-  </a>
-  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=QUIVERI+DIAZ+MENDOZA;FULLSTACK+DEVELOPER;EN+FORMACIÓN" alt="Typing SVG" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Fullstack-Developer-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+    <img src="https://img.shields.io/badge/Apasionado-por+la+tecnología-000000?style=for-the-badge&labelColor=000000&color=333333" />
+    <img src="https://img.shields.io/badge/Abierto-a+colaborar-000000?style=for-the-badge&labelColor=000000&color=333333" />
+  </p>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&reversal=true&animation=twinkling" />
+
 </div>
-<pre>
-    💼 Desarrollador back-end • Platform Enginee
-    💻 Lenguajes de programación de sistemas • DevOps 
-    📖 Software architecture • Distributed systems
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+
+<br>
+
+## Sobre mí
+
+```
+Desarrollador Fullstack apasionado por crear soluciones completas
+y funcionales. Combino habilidades de frontend y backend para
+construir aplicaciones robustas y escalables.
+```
+
+<br>
+
+## Experiencia en Formación
+
+```
+Actualmente - 5to Semestre en SENATI
+```
+
+**Fullstack Developer** en formación  
+Desarrollando habilidades en tecnologías web completas, tanto frontend como backend.
+
+### Proyectos Empresa
+- **FixIa** - Soluciones innovadoras
+- **Rosi Pastelería** - Sistema de gestión
+- **Sistema Administrativo UGEL** - Plataforma educativa
+
+### Proyectos Personales
+- **Mimate Shop** - E-commerce
+- **Asistente Emocional** - Aplicación de bienestar
+
+### Experiencia Práctica
+- **UGEL** - Prácticas profesionales
+- **Grupo Amayo J SAC** - Experiencia laboral
+
+<br>
+
+## Stack Tecnológico
+
+<div align="center">
+
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+
+  ### Backend
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+  ![Database](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=database&logoColor=white)
+
+  ### Herramientas
+  ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br>
+
+## Intereses
+
+| Área | Descripción |
+|----------|-------------|
+| **Desarrollo Web Completo** | Crear soluciones end-to-end |
+| **Arquitectura de Software** | Diseño eficiente y escalable |
+| **Resolución de Problemas** | Encontrar soluciones innovadoras |
+| **Aprendizaje Continuo** | Mantenerme actualizado con nuevas tecnologías |
+
+<br>
+
+## Contacto
+
+<div align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-quiveri-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quiveri)
+  [![Email](https://img.shields.io/badge/Email-quiverlimendoza@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quiverlimendoza@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&reversal=true&animation=twinkling" />
+
+<div align="center">
+  <sub>© 2026 — Quiveri Diaz Mendoza | Fullstack Developer</sub>
 </div>
