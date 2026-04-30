@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiveri Diaz Mendoza - Fullstack Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+            color: #ffffff;
+            font-family: 'Space Grotesk', 'Arial', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            text-align: center;
+            padding: 40px 20px;
+            max-width: 800px;
+        }
+
+        .header {
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 20px;
+            animation: slideDown 0.8s ease-out;
+        }
+
+        .typing-animation {
+            font-size: 2rem;
+            min-height: 60px;
+            margin: 20px 0;
+        }
+
+        .typing-text {
+            display: inline-block;
+            animation: typing 3.5s steps(40, end), blink 0.75s step-end infinite;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 3px solid #ffffff;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes blink {
+            from, to {
+                border-right-color: #ffffff;
+            }
+            50% {
+                border-right-color: transparent;
+            }
+        }
+
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .badges {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            background: #ffffff;
+            color: #000000;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .content {
+            margin-top: 40px;
+            animation: slideUp 0.8s ease-out 0.2s both;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .section {
+            margin: 30px 0;
+            text-align: left;
+        }
+
+        .section h2 {
+            color: #ffffff;
+            margin: 20px 0 15px 0;
+            border-bottom: 2px solid #ffffff;
+            padding-bottom: 10px;
+        }
+
+        .section ul {
+            list-style: none;
+            padding-left: 20px;
+        }
+
+        .section li {
+            margin: 8px 0;
+        }
+
+        .section li:before {
+            content: "▸ ";
+            color: #ffffff;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #333333;
+            font-size: 0.9rem;
+            color: #999999;
+        }
+
+        .contact-links {
+            margin: 20px 0;
+        }
+
+        .contact-links a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 8px 16px;
+            border: 2px solid #ffffff;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+        }
+
+        .contact-links a:hover {
+            background: #ffffff;
+            color: #000000;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5rem;
+            }
+
+            .typing-text {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Quiveri Diaz Mendoza</h1>
+            <div class="typing-animation">
+                <span class="typing-text">Fullstack Developer en Formación</span>
+            </div>
+        </div>
+
+        <div class="badges">
+            <span class="badge">Fullstack</span>
+            <span class="badge">Apasionado por la tecnología</span>
+            <span class="badge">Abierto a colaborar</span>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2>📧 Contacto</h2>
+                <p>Email: quiverlimendoza@gmail.com</p>
+                <div class="contact-links">
+                    <a href="https://github.com/Quiwi02" target="_blank">GitHub</a>
+                    <a href="mailto:quiverlimendoza@gmail.com">Email</a>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>💼 Proyectos Empresa</h2>
+                <ul>
+                    <li><strong>FixIa</strong> - Soluciones innovadoras</li>
+                    <li><strong>Rosi Pastelería</strong> - Sistema de gestión</li>
+                    <li><strong>Sistema Administrativo UGEL</strong> - Plataforma educativa</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>🚀 Proyectos Personales</h2>
+                <ul>
+                    <li><strong>Mimate Shop</strong> - E-commerce</li>
+                    <li><strong>Asistente Emocional</strong> - Aplicación de bienestar</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>📚 Educación</h2>
+                <ul>
+                    <li><strong>SENATI</strong> - 5to Semestre</li>
+                    <li><strong>UGEL</strong> - Prácticas profesionales</li>
+                    <li><strong>Grupo Amayo J SAC</strong> - Experiencia laboral</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h2>🛠️ Stack Tecnológico</h2>
+                <ul>
+                    <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React</li>
+                    <li><strong>Backend:</strong> Node.js, Python, SQL</li>
+                    <li><strong>Herramientas:</strong> Git, GitHub, VS Code</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>© 2026 — Quiveri Diaz Mendoza | Fullstack Developer</p>
+        </div>
+    </div>
+</body>
+</html>
