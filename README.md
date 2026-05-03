@@ -1,11 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=QIVERLY+DIAZ;DESARROLLADORA+FULL+STACK;FRONTEND+%26+BACKEND" alt="Typing SVG" />
+  <h1>Quiverli Diaz Mendoza</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=QUIVERI+DIAZ+MENDOZA;FULLSTACK+DEVELOPER;EN+FORMACIÓN" alt="Typing SVG" />
 
   <p>
-    <img src="https://img.shields.io/badge/FullStack-Developer-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
-    <img src="https://img.shields.io/badge/SENATI-Semestre+5-000000?style=for-the-badge&labelColor=000000&color=333333" />
-    <img src="https://img.shields.io/badge/Apasionada-por+la+tecnología-000000?style=for-the-badge&labelColor=000000&color=333333" />
+    <img src="https://img.shields.io/badge/Fullstack-Developer-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+    <img src="https://img.shields.io/badge/Apasionado-por+la+tecnología-000000?style=for-the-badge&labelColor=000000&color=333333" />
+    <img src="https://img.shields.io/badge/Abierto-a+colaborar-000000?style=for-the-badge&labelColor=000000&color=333333" />
   </p>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&reversal=true&animation=twinkling" />
@@ -95,5 +96,5 @@ Desarrollando habilidades en tecnologías web completas, tanto frontend como bac
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&reversal=true&animation=twinkling" />
 
 <div align="center">
-  <sub>© 2026 — Quiveri Diaz Mendoza | Fullstack Developer</sub>
+  <sub>© 2026 — Quiverli Diaz Mendoza | Fullstack Developer</sub>
 </div>
