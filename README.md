@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Quiveri Diaz Mendoza</h1>
+  <h1>Quiverli Diaz Mendoza</h1>
 
   <p>
     <img src="https://img.shields.io/badge/Fullstack-Developer-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
@@ -85,7 +85,7 @@ Desarrollando habilidades en tecnologías web completas, tanto frontend como bac
 
 <div align="center">
 
-  [![GitHub](https://img.shields.io/badge/GitHub-quiveri-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quiveri)
+  [![GitHub](https://img.shields.io/badge/GitHub-quiverli-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quiverli)
   [![Email](https://img.shields.io/badge/Email-quiverlimendoza@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quiverlimendoza@gmail.com)
 
 </div>
@@ -93,5 +93,5 @@ Desarrollando habilidades en tecnologías web completas, tanto frontend como bac
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&reversal=true&animation=twinkling" />
 
 <div align="center">
-  <sub>© 2026 — Quiveri Diaz Mendoza | Fullstack Developer</sub>
+  <sub>© 2026 — Quiverli Diaz Mendoza | Fullstack Developer</sub>
 </div>
