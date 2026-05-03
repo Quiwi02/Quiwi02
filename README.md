@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Quiverli Diaz Mendoza</h1>
+  <h1>Quiveri Diaz Mendoza</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=QUIVERI+DIAZ+MENDOZA;FULLSTACK+DEVELOPER;EN+FORMACIÓN" alt="Typing SVG" />
 
   <p>
