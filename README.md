@@ -96,5 +96,5 @@ Desarrollando habilidades en tecnologías web completas, tanto frontend como bac
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&reversal=true&animation=twinkling" />
 
 <div align="center">
-  <sub>© 2026 — Quiverli Diaz Mendoza | Fullstack Developer</sub>
+  <sub>© 2026 — Quiveri Diaz Mendoza | Fullstack Developer</sub>
 </div>
